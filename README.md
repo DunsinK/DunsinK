@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Dunsin Komolafe</h1>
+<h1>Hi 👋, I'm Oluwadunsin Komolafe</h1>
 <p>A passionate software engineer from the houston area currently studying at Texas A&M University</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
