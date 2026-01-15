@@ -22,12 +22,18 @@ I'm a software engineer passionate about scalable solutions, full-stack engineer
 ##  Tech Stack
 
 **Languages:** Python, C++, JavaScript, C#, Java, R  
-**Frameworks & Tools:** React, Django, Docker, TensorFlow, PostgreSQL, Flask, Git, BeautifulSoup  
+**Frameworks & Tools:** React, Django, Docker, TensorFlow, PostgreSQL, Flask, Git, BeautifulSoup, etc. \
 **Core Concepts:** Full-Stack Development, Secure Systems, RESTful APIs, Machine Learning, Data Privacy
+
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a href="https://reactnative.dev/img/header_logo.svg" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 
 ---
 
-## 💡 More Projects
+## Projects
 
 - **Instagram Unfollowers**  
   Zero-Knowledge, client-side analytics app for social exports. Efficient HTML parsing and privacy-first design.
@@ -46,6 +52,7 @@ I'm a software engineer passionate about scalable solutions, full-stack engineer
 ## 📈 Stats & Activity
 
 ![Dunsin's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=dunsink&)
+
 
 ---
 
