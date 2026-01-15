@@ -34,7 +34,8 @@ I'm a software engineer passionate about scalable solutions, full-stack engineer
 ---
 
 ## Projects
-
+- **Aggie Agenda** \
+  a full-stack scheduling platform that uses academic data to automate personalized class and exam calendars.
 - **Instagram Unfollowers**  
   Zero-Knowledge, client-side analytics app for social exports. Efficient HTML parsing and privacy-first design.
 - **Hitachi AI-Powered Regulatory Document Classifier**  
@@ -44,15 +45,14 @@ I'm a software engineer passionate about scalable solutions, full-stack engineer
 
 ## 🌱 Involved In
 
-- Teaching and mentoring 100+ students at Texas A&M as a Peer Teacher.
-- Leading FATE, a student org I founded that grew to 50+ members and raised $10,000+ in its first year.
+- Teaching and mentoring students at Texas A&M as an ENGR and now CSCE Peer Teacher.
+
 
 ---
 
 ## 📈 Stats & Activity
 
-![Dunsin's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=dunsink&)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunsink&" alt="Dunsin Github Stats" /></p>
 
 ---
 
