@@ -3,7 +3,7 @@
 
 # Hi, I'm Dunsin Komolafe
 
-I'm a software engineer passionate about scalable solutions, full-stack engineering, and applied machine learning. Based in Texas and currently studying Computer Science (with a Cybersecurity minor) at Texas A&M University, I thrive on building tools that simplify life and promote learning.
+I'm an aspiring software engineer based in Texas and currently studying Computer Science (with a Cybersecurity minor) at Texas A&M University, I thrive on learning new topics and applying my knowledge to solve real world problems
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/dunsink/)
 
