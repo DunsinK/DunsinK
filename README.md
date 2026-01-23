@@ -11,7 +11,7 @@ I'm an aspiring software engineer based in Texas and currently studying Computer
 
 ##  About Me
 
-- 🎓 **Texas A&M University** ’28 | B.S. Computer Science, Cybersecurity minor
+- 🎓 **Texas A&M University**  | B.S. Computer Science, Cybersecurity minor
 - 👨🏾‍💻 **Focus Areas:** Full-Stack Engineering, Secure Systems, Applied Machine Learning
 - 🧑‍🏫 **Leader & Teacher:** Peer Teacher at TAMU, founder of the Freshman Aspiring Towards Excellence (FATE) org.
 - 📬 [Contact Me @ dunsink@tamu.edu](mailto:dunsink@tamu.edu)
