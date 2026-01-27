@@ -21,7 +21,7 @@ I'm an aspiring software engineer based in Texas and currently studying Computer
 
 ##  Tech Stack
 
-**Languages:** Python, C++, JavaScript, C#, Java, R  
+**Languages:** Python, C++, JavaScript, C#, Java, R, Haskell  
 **Frameworks & Tools:** React, Django, Docker, TensorFlow, PostgreSQL, Flask, Git, BeautifulSoup, etc. \
 **Core Concepts:** Full-Stack Development, Secure Systems, RESTful APIs, Machine Learning, Data Privacy
 
