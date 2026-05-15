@@ -3,12 +3,20 @@
 
 # Hi, I'm Dunsin Komolafe
 
-I'm an aspiring software engineer based in Texas and currently studying Computer Science (with a Cybersecurity minor) at Texas A&M University, I thrive on learning new topics and applying my knowledge to solve real world problems
+Computer Science student at Texas A&M University focused on backend systems, AI infrastructure, and full-stack engineering.
+
+I enjoy building practical software systems — especially products involving automation, LLM workflows, data pipelines, and scalable backend architecture.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/dunsink/)
 
 ---
+##  What I'm Currently Working On
+- Building AI-agent workflows using OpenClaw and Claude models
+- Developing full-stack applications with Python, React, PostgreSQL, and Docker
+- Teaching and mentoring students as a CSCE Peer Teacher at Texas A&M
+- - Exploring MCP servers, LLM tooling, and AI-assisted backend systems
 
+___
 ##  About Me
 
 - 🎓 **Texas A&M University**  | B.S. Computer Science, Cybersecurity minor
