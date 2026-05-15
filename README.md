@@ -61,9 +61,11 @@ I enjoy mentoring students and helping others grow technically
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunsink&" alt="Dunsin Github Stats" /></p>
 
 ---
-
-Feel free to connect and explore my repositories, especially [Agenda](aggieagenda.com)!
 📬 [Contact Me @ dunsink@tamu.edu](mailto:dunsink@tamu.edu)
+
+Feel free to connect and explore my repositories!
+
+
 ---
 
 
