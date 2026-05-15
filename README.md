@@ -21,7 +21,7 @@ I enjoy building practical software systems — especially products involving au
 
 
 ## Featured Projects
- **Aggie Agenda** \
+ **Aggie Agenda** [link](https://github.com/AggieAgenda/App) \
 Full-stack academic scheduling platform designed to automate personalized class and exam calendar generation for students.
 
 Built with: React, Python, PostgreSQL, REST APIs
