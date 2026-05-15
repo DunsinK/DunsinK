@@ -11,10 +11,10 @@ I enjoy building practical software systems — especially products involving au
 
 ---
 ## 👨🏾‍💻 What I'm Currently Working On
-- Building AI-agent workflows using OpenClaw and Claude models
+- Exploring LLM tooling and AI backend systems, and building AI-agent workflows with OpenClaw and Claude
 - Developing full-stack applications with Python, React, PostgreSQL, and Docker
 - Teaching and mentoring students as a CSCE Peer Teacher at Texas A&M
-- Exploring MCP servers, LLM tooling, and AI-assisted backend systems
+
 
 ---
 
