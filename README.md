@@ -12,7 +12,7 @@ I enjoy building software systems — especially products involving automation, 
 ---
 ## 👨🏾‍💻 What I'm Currently Working On
 - Building and scaling the user base for my SMS/Discord Calendar Agent
-- Contributing to Open Source through Codepath x Anthropic's first open source cohort
+- Contributing to Open Source through Codepath x Anthropic's 1st ever open source cohort
 - Exploring more opportunities to grow as a software engineer
 
 
