@@ -5,32 +5,27 @@
 
 Computer Science student at Texas A&M University focused on backend systems, AI infrastructure, and full-stack engineering.
 
-I enjoy building practical software systems — especially products involving automation, LLM workflows, data pipelines, and scalable backend architecture.
+I enjoy building software systems — especially products involving automation, LLM workflows, data pipelines, or scalable backend architecture.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/dunsink/)
 
 ---
 ## 👨🏾‍💻 What I'm Currently Working On
-- Exploring LLM tooling and AI backend systems, and building AI-agent workflows with OpenClaw and Claude
-- Developing full-stack applications with Python, React, PostgreSQL, and Docker
-- Teaching and mentoring students as a CSCE Peer Teacher at Texas A&M
+- Building and scaling the user base for my SMS/Discord Calendar Agent
+- Contributing to Open Source through Codepath x Anthropic's first open source cohort
+- Exploring more opportunities to grow as a software engineer
 
 
 ---
 
 
 
-## Featured Projects
+## 🏗️ Featured Projects
  **Aggie Agenda** [link](https://github.com/AggieAgenda/App) \
-Full-stack academic scheduling platform designed to automate personalized class and exam calendar generation for students.
+Full-stack academic scheduling platform designed to aggregate hiring events around the A&M campus and automate personalized class and exam calendar generation for students.
 
 Built with: React, Python, PostgreSQL, REST APIs
 
- **Instagram Unfollowers**  
-Privacy-first analytics application for processing Instagram export data entirely client-side.
-
- **AI-Powered Regulatory Document Classifier**  
-  Built a secure document analysis pipeline using dual-LLM verification and deterministic compliance scoring workflows.
 
 ---
 
@@ -63,7 +58,7 @@ I enjoy mentoring students and helping others grow technically
 ---
 📬 [Contact Me @ dunsink@tamu.edu](mailto:dunsink@tamu.edu)
 
-Feel free to connect and explore my repositories!
+Feel free to connect and explore my repositories or reach out for collaboration!
 
 
 ---
