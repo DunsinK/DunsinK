@@ -43,13 +43,3 @@ Built with: React, Python, PostgreSQL, REST APIs
 ## 📈 Stats & Activity
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunsink&" alt="Dunsin Github Stats" /></p>
-
----
-📬 [Contact Me @ dunsink@tamu.edu](mailto:dunsink@tamu.edu)
-
-Feel free to connect and explore my repositories or reach out for collaboration!
-
-
----
-
-
