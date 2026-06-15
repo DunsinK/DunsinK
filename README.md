@@ -27,17 +27,6 @@ Full-stack academic scheduling platform designed to aggregate hiring events arou
 Built with: React, Python, PostgreSQL, REST APIs
 
 
----
-
-## 🌱 Involved In
-
-- CSCE Peer Teacher at Texas A&M University
-- Founder of FATE (Freshman Aspiring Towards Excellence)
-
-I enjoy mentoring students and helping others grow technically
-
----
-
 ##  Technologies
 
 **Languages:** Python, C++, JavaScript, Java, SQL\
