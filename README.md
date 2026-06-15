@@ -21,11 +21,8 @@ I enjoy building software systems — especially products involving automation, 
 
 
 ## 🏗️ Featured Projects
- **Aggie Agenda** [link](https://github.com/AggieAgenda/App) \
+ **Aggie Agenda** | React, Django, Postgres | [link](https://github.com/AggieAgenda/App) \
 Full-stack academic scheduling platform designed to aggregate hiring events around the A&M campus and automate personalized class and exam calendar generation for students.
-
-Built with: React, Python, PostgreSQL, REST APIs
-
 
 ##  Technologies
 
@@ -34,9 +31,15 @@ Built with: React, Python, PostgreSQL, REST APIs
 
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a href="https://reactnative.dev/img/header_logo.svg" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="42" height="42" /></a>
 <a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="42" height="42" /></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="42" height="42" /></a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+
+
 
 ---
 
