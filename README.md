@@ -3,17 +3,15 @@
 
 # Hi, I'm Dunsin Komolafe
 
-Computer Science student at Texas A&M University focused on backend systems, AI infrastructure, and full-stack engineering.
-
-I enjoy building software systems — especially products involving automation, LLM workflows, data pipelines, or scalable backend architecture.
+Computer Science student at Texas A&M University. I enjoy building software systems especially products involving LLM workflows & agents, Robotics & Computer Vision, and scalable backend architecture.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/dunsink/)
 
 ---
 ## 👨🏾‍💻 What I'm Currently Working On
-- Building and scaling the user base for my SMS/Discord Calendar Agent
-- Contributing to Open Source through Codepath x Anthropic's 1st ever open source cohort
-- Exploring more opportunities to grow as a software engineer
+- Building and scaling the user base for my AI Accountablity Coach [DOOD](https://textdood.com)
+- Contributing Open Source through Codepath x Anthropic's Applied AI Engineering Course (2x)
+- Serving at a Undergraduate Peer Teacher as I continue my CSCE degree at Texas A&M
 
 
 ---
