@@ -12,6 +12,7 @@ Computer Science student at Texas A&M University. I enjoy building software syst
 - Building and scaling the user base for my AI Accountablity Coach [DOOD](https://textdood.com)
 - Contributing Open Source through Codepath x Anthropic's Applied AI Engineering Course (2x)
 - Serving at a Undergraduate Peer Teacher as I continue my CSCE degree at Texas A&M
+- Working on the Control Station and implementing RAG for the URC with Karura Robotics
 
 
 ---
