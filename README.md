@@ -5,6 +5,8 @@
 
 Computer Science student at Texas A&M University. I enjoy building software systems especially products involving LLM workflows & agents, Robotics & Computer Vision, and scalable backend architecture.
 
+Looking for SWE intern opportunities for Summer 2027
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/dunsink/)
 
 ---
